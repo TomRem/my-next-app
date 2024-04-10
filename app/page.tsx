@@ -27,14 +27,18 @@ export default function Home() {
           </a>
         </div>
       </div>
-
-      <div className={styles.center}>
+      <div>
+        <h1>
+          <strong>Moja Cudowna rodzinka :*</strong>
+        </h1>
+      </div>
+      <div>
         <Image
           className={styles.logo}
-          src="/next.svg"
+          src="/family.png"
           alt="Next.js Logo"
-          width={180}
-          height={37}
+          width={412}
+          height={408}
           priority
         />
       </div>
